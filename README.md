@@ -1,7 +1,7 @@
 - :alembic: Welcome to Labs Breno.
 - :grinning: Hi, I’m Breno.  
 - :gear: Interested in software engineering and software architecture and related.
-- :books: I'm always learning!
+- :books: always learning!
 - :man_student: Lifelong Learning.
 
 <!---
